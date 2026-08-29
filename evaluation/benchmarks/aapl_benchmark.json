@@ -1,0 +1,29 @@
+{
+  "ticker": "AAPL",
+  "company_name": "Apple Inc.",
+  "analyst_firm": "Morgan Stanley Equity Research",
+  "ground_truth_metrics": {
+    "total_revenue_fy24": 391035,
+    "gross_margin_fy24": 46.2,
+    "operating_income_fy24": 123216,
+    "net_income_fy24": 93736,
+    "diluted_eps_fy24": 6.08,
+    "services_revenue_fy24": 96200,
+    "pe_ratio": 33.2,
+    "market_cap_billions": 3480
+  },
+  "required_sections": [
+    "Executive Summary",
+    "Company Profile & Operational Architecture",
+    "Financial Analysis & Profitability Ratios",
+    "Comprehensive Risk Assessment",
+    "Peer Comparison & Competitive Position",
+    "Valuation Modeling & Synthesis Notes"
+  ],
+  "material_risk_factors": [
+    "Supply chain concentration in Greater China and geopolitical exposure",
+    "Antitrust regulatory litigation by US DOJ and European DMA",
+    "Apple Intelligence rollout pacing and consumer hardware upgrade cycle",
+    "Foreign exchange headwinds across international markets"
+  ]
+}

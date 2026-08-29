@@ -1,0 +1,29 @@
+{
+  "ticker": "MSFT",
+  "company_name": "Microsoft Corporation",
+  "analyst_firm": "Goldman Sachs Global Investment Research",
+  "ground_truth_metrics": {
+    "total_revenue_fy24": 245120,
+    "gross_margin_fy24": 69.8,
+    "operating_income_fy24": 109400,
+    "net_income_fy24": 88136,
+    "diluted_eps_fy24": 11.80,
+    "free_cash_flow_fy24": 74071,
+    "pe_ratio": 35.4,
+    "market_cap_billions": 3150
+  },
+  "required_sections": [
+    "Executive Summary",
+    "Company Profile & Operational Architecture",
+    "Financial Analysis & Profitability Ratios",
+    "Comprehensive Risk Assessment",
+    "Peer Comparison & Competitive Position",
+    "Valuation Modeling & Synthesis Notes"
+  ],
+  "material_risk_factors": [
+    "Hyperscaler AI CapEx expansion and ROI timeline",
+    "Cloud infrastructure competition from AWS and Google Cloud",
+    "Antitrust regulatory oversight on OpenAI partnership and gaming",
+    "Cybersecurity disclosures and data protection compliance"
+  ]
+}

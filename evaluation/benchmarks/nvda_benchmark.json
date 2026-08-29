@@ -1,0 +1,29 @@
+{
+  "ticker": "NVDA",
+  "company_name": "NVIDIA Corporation",
+  "analyst_firm": "Bernstein Institutional Equity Research",
+  "ground_truth_metrics": {
+    "total_revenue_fy24": 60922,
+    "data_center_revenue_fy24": 47500,
+    "gross_margin_fy24": 72.7,
+    "operating_income_fy24": 32972,
+    "net_income_fy24": 29760,
+    "diluted_eps_fy24": 11.93,
+    "pe_ratio": 48.2,
+    "market_cap_billions": 3300
+  },
+  "required_sections": [
+    "Executive Summary",
+    "Company Profile & Operational Architecture",
+    "Financial Analysis & Profitability Ratios",
+    "Comprehensive Risk Assessment",
+    "Peer Comparison & Competitive Position",
+    "Valuation Modeling & Synthesis Notes"
+  ],
+  "material_risk_factors": [
+    "Customer concentration among top 4 cloud hyperscalers",
+    "US export restrictions on high-end GPUs to China",
+    "Single foundry manufacturing reliance on TSMC and CoWoS packaging",
+    "Custom ASIC accelerator competition from CSPs (Trainium, TPU, Maia)"
+  ]
+}
